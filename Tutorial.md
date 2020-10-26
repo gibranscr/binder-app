@@ -86,7 +86,7 @@ The programming codes that we will present below do not have the code fragments 
 Remember that when activating these lines you would have to erase the lines where the same variables are defined for the correct operation of the programming algorithm.
 
 
-#### Intens - API programming code
+#### Intents - API programming code
 
 Below, you can see the programming code for Intents training in wit.ai for Mandy.
 
