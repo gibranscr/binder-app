@@ -28,7 +28,7 @@ Specifically, the application identifies the following intentions:
     • Storage intent: the user must store a chemical compound or a product that contains a specific chemical compound. The user discovers the storage precautions for these types of chemicals
     • Information search intention: the user wants to know the properties and characteristics of a chemical compound.
     
-![mandy-process-1000.jpg](attachment:mandy-process-1000.jpg)
+![Alt text](https://github.com/gibranscr/binder-app/blob/main/mandy-process-1000.jpg?raw=True "Mandy")
 
 
 ### Create a Wit.ai account
