@@ -2,7 +2,7 @@
 
 Chemistry is everywhere and manufacturers transform raw materials into final products using knowledge of the chemistry and physical properties of those raw materials. The final products are sold in stores and have chemistry that can work for us or against us. For this reason, it is remarkable to know the ingredients and the chemistry contained in manufactured products. This will allow you to use them more safely and consume them more reliably.
 
-                                         ![Alt text](https://github.com/gibranscr/binder-app/blob/main/detergents-350.jpg?raw=True "Mandy")
+![Alt text](https://github.com/gibranscr/binder-app/blob/main/detergents-350.jpg?raw=True "Mandy")
 
 Chemical compounds exist in different phases at specific temperatures and pressures in given environments. Therefore, it is understood by people or potential consumers that product consumers might be more interested in learning about the correct handling of a product that contains a chemical compound. For example, detergents contain a mixture of chemicals that could change into other harmful chemicals when mixed or stored in stressful environments. As a homemaker, it would be a smart decision to ask Mandy about some of the chemicals that are stored at home. Lotions, creams, makeup, and many other products you buy every day also contain chemicals that you may want to learn more about before you buy.
 
@@ -210,7 +210,7 @@ It is important that you identify the moment when Mandy shows you the identified
 
 ### Identification of Chemical Compounds and Intentions
 
-                            ![Alt text](https://github.com/gibranscr/binder-app/blob/main/label-detergent-small.jpg?raw=True "Mandy")
+![Alt text](https://github.com/gibranscr/binder-app/blob/main/label-detergent-small.jpg?raw=True "Mandy")
 
 The application uses the following Python libraries that allow it to get the correct information for the user:
 
