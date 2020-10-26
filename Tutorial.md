@@ -14,7 +14,7 @@ The sections are mentioned in the order the application works and these actions 
     • PubChem API implementation
     • Implementation of YouTube audio transcription
 
-![workflow-1000-english.jpg](attachment:workflow-1000-english.jpg)
+![Alt text](https://github.com/gibranscr/binder-app/blob/main/workflow-1000-english.jpg?raw=True "Mandy")
 
 ## Wit.ai technology Implementation
 
