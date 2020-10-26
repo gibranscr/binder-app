@@ -208,7 +208,7 @@ It is important that you identify the moment when Mandy shows you the identified
 
 ### Identification of Chemical Compounds and Intentions
 
-![label-detergent-small.jpg](attachment:label-detergent-small.jpg)
+![Alt text](https://github.com/gibranscr/binder-app/blob/main/label-detergent-small.jpg?raw=True "Mandy")
 
 The application uses the following Python libraries that allow it to get the correct information for the user:
 
